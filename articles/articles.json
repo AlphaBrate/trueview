@@ -1,0 +1,37 @@
+{
+    "user-agreement": {
+        "title": "用户条款",
+        "author": "AlphaBrate",
+        "date": "2023-07-20",
+        "description": "",
+        "content": "user-agreement.md"
+    },
+    "declaration-of-the-use-of-content": {
+        "title": "内容使用声明",
+        "author": "AlphaBrate",
+        "date": "2023-07-20",
+        "description": "",
+        "content": "declaration-of-the-use-of-content.md"
+    },
+    "copyright": {
+        "title": "版权声明",
+        "author": "AlphaBrate",
+        "date": "2023-07-20",
+        "description": "",
+        "content": "copyright.md"
+    },
+    "20230720": {
+        "title": "你以为你没有的——双标。",
+        "author": "AlphaBrate",
+        "date": "2023-07-20",
+        "description": "你真的懂你的孩子吗？",
+        "content": "20230720.md"
+    },
+    "20230719": {
+        "title": "你以为它们是真的？其实不然！",
+        "author": "AlphaBrate",
+        "date": "2023-07-19",
+        "description": "营销号，为了利益而上架虚假消息！",
+        "content": "20230719.md"
+    }
+}
