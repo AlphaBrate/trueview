@@ -15,3 +15,4 @@
 
 ### 6. 开源
 > 本网站的markdown渲染功能由[markedjs](https://marked.js.org/)提供，本软件亦为开源软件并以MIT开源协议开源。
+> 本网站的code block显然功能由[Prettyprint](https://github.com/googlearchive/code-prettify)提供，本软件亦为开源软件并以MIT开源协议开源。

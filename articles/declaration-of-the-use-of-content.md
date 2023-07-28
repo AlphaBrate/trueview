@@ -19,3 +19,4 @@
 ### 7. 开源软件
 > 以下为使用的开源软件：
 > - [Marked.js](https://marked.js.org/) (MIT)
+> - [Prettyprint](https://github.com/googlearchive/code-prettify) (MIT)
